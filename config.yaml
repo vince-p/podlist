@@ -1,7 +1,7 @@
 baseurl: https://middlesized.netlify.app
 languageCode: en
 defaultContentLanguage: en
-title: "Middle Size Ideas"
+title: "Middle Sized Ideas"
 theme: hugo-theme-dream
 params:
   author: v
