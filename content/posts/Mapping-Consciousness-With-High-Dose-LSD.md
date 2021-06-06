@@ -18,6 +18,6 @@ categories:
 #weight: 1
 
 ---
-What happens when you take very high doses of LSD for 20 years
+A professor's 40 year experiment with very high doses of LSD.
 <!--more-->
 Christoper Bache is a professor of philosophy. He took 70 very high dose LSD trips over 20 years. This is his story.
