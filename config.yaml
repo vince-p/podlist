@@ -1,0 +1,19 @@
+baseurl: https://example.com
+languageCode: en
+defaultContentLanguage: en
+title: "Middle Size Ideas"
+theme: hugo-theme-dream
+params:
+  author: v
+  avatar: /img/eclipse.png
+  background: '#f7f7f7'
+  backgroundImage: "/me/RobertCocke_WasIsWillBe.jpg"
+  #email: middlesized@phnord.net
+  headerTitle: middle sized ideas
+  motto: audio gems from the heart of the internet
+  linkColor: seagreen
+  siteStartYear: 2021
+  showSummaryCoverInPost: true
+  fixedNav: true
+  #maxTags: 5
+  images: [""]
