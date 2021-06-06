@@ -5,7 +5,7 @@ title: "Middle Size Ideas"
 theme: hugo-theme-dream
 params:
   author: v
-  avatar: /img/eclipse.png
+  avatar: /img/eclipse_sq.png
   background: '#f7f7f7'
   backgroundImage: "/me/RobertCocke_WasIsWillBe.jpg"
   #email: middlesized@phnord.net
@@ -17,4 +17,4 @@ params:
   fixedNav: false
   maxTags: 5
   images: [""]
-  favicon: "/favicon.ico"
+  favicon: "favicon.ico"
