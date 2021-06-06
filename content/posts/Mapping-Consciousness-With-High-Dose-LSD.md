@@ -8,13 +8,13 @@ link: https://www.jameswjesso.com/mapping-consciousness-with-high-dose-lsd-chris
 author: AG
 cover: https://www.jameswjesso.com/wp-content/uploads/2018/10/Ep-83-PROMO-photo-300x300.jpg
 tags:
+  - HighDose
+categories:
   - Psychedelic
 
 #avatar: /img/barbelith.png
 #images:
 #  - /img/Buy-Me-A-Coffee.jpg
-#categories:
-#  - Podcasts
 #weight: 1
 
 ---

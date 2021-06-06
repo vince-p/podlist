@@ -8,14 +8,13 @@ link: https://psychedelicstoday.com/2019/06/11/ido-cohen-transformative-experien
 author: TK
 cover: https://psychedelicstoday.com/wp-content/uploads/2019/06/Copy-of-Copy-of-Dan-G-Toronto.png
 tags:
-  - Psychedelic
   - Jung
+categories:
+  - Psychedelic
 
 #avatar: /img/barbelith.png
 #images:
 #  - /img/Buy-Me-A-Coffee.jpg
-#categories:
-#  - Podcasts
 #weight: 1
 
 ---

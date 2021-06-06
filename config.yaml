@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://middlesized.netlify.app
 languageCode: en
 defaultContentLanguage: en
 title: "Middle Size Ideas"
@@ -14,6 +14,7 @@ params:
   linkColor: seagreen
   siteStartYear: 2021
   showSummaryCoverInPost: true
-  fixedNav: true
-  #maxTags: 5
+  fixedNav: false
+  maxTags: 5
   images: [""]
+  favicon: "/favicon.ico"

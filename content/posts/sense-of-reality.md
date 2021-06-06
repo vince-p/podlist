@@ -8,8 +8,10 @@ link: https://www.jameswjesso.com/the-sense-of-reality-martin-fortier-ep-54/
 author: VP
 cover: https://www.jameswjesso.com/wp-content/uploads/2017/09/EP-54-blog-header.png
 tags:
-  - Psychedelic
   - Philosophy
+categories:
+  - Psychedelic
+
 ---
 
 What is real in different cultures?

@@ -8,14 +8,14 @@ link: https://www.psychedelicstoday.com/2016/07/08/psychedelics-today-djinn-thom
 author: TK
 cover: https://www.psychedelicstoday.com/wp-content/uploads/2021/03/Djinn4-768x433.jpg
 tags:
-  - Psychedelic
+#  - Psychedelic
   - Parenting
 
 #avatar: /img/barbelith.png
 #images:
 #  - /img/Buy-Me-A-Coffee.jpg
-#categories:
-#  - Podcasts
+categories:
+  - Psychedelic
 #weight: 1
 
 ---

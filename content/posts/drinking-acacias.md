@@ -8,8 +8,9 @@ link: https://www.jameswjesso.com/drinking-the-psychedelic-acacia-trees-of-austr
 author: VP
 cover: https://www.jameswjesso.com/wp-content/uploads/2021/04/blog-header-1.jpg
 tags:
-  - Psychedelic
   - Animism
+categories:
+  - Psychedelic
 ---
 
 All about aussiewaska.
