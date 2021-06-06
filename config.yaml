@@ -15,6 +15,6 @@ params:
   siteStartYear: 2021
   showSummaryCoverInPost: true
   fixedNav: false
-  maxTags: 5
+  maxTags: 4
   images: [""]
   favicon: "favicon.ico"
